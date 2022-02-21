@@ -20,3 +20,9 @@ All participants in our in-person events and online communications are expected 
 
 To make clear what is expected, everyone participating in activities associated with the scivision project is required to conform to this Code of Conduct.
 This Code of Conduct applies to all spaces managed by the scivision project including, but not limited to, in-person focus groups and workshops, and communications online via GitHub.
+
+- Dr  - is responsible for enforcing the Code of Conduct.
+He can be contacted by emailing [](mailto:).
+You may contact [](mailto:) or [](mailto:k) if you would prefer not to contact Dr .
+
+Reports may be reviewed by other members of the core development team, unless there is a conflict of interest, and will be kept confidential.
