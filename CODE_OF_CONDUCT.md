@@ -57,3 +57,27 @@ The following bullet points set out explicitly what we hope you will consider to
 
 All interactions should be professional regardless of platform: either online or in-person.
 See [this explanation of the four social rules](https://www.recurse.com/manual#sub-sec-social-rules) - no feigning surprise, no well-actually's, no back-seat driving, no subtle -isms - for further recommendations for inclusive behaviours.
+
+### 2.2 Unacceptable Behaviour
+
+Examples of unacceptable behaviour by scivision community members at any project event or platform include:
+
+* written or verbal comments which have the effect of excluding people on the basis of membership of any specific group
+* causing someone to fear for their safety, such as through stalking, following, or intimidation
+* violent threats or language directed against another person
+* the display of sexual or violent images
+* unwelcome sexual attention
+* nonconsensual or unwelcome physical contact
+* sustained disruption of talks, events or communications
+* insults or put downs
+* sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
+* excessive swearing
+* incitement to violence, suicide, or self-harm
+* continuing to initiate interaction (including photography or recording) with someone after being asked to stop
+* publication of private communication without consent
+
+### 2.3 Consequences of Unacceptable Behaviour
+
+Participants who are asked to stop any inappropriate behaviour are expected to comply immediately.
+This applies to all scivision community events and platforms, either online or in-person.
+If a participant engages in behaviour that violates this Code of Conduct, any member of the core development team may warn the offender, ask them to leave the event or platform (without refund), or impose any other appropriate sanctions (see the [enforcement manual](#4-enforcement-manual) for details).
