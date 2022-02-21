@@ -81,3 +81,8 @@ Examples of unacceptable behaviour by scivision community members at any project
 Participants who are asked to stop any inappropriate behaviour are expected to comply immediately.
 This applies to all scivision community events and platforms, either online or in-person.
 If a participant engages in behaviour that violates this Code of Conduct, any member of the core development team may warn the offender, ask them to leave the event or platform (without refund), or impose any other appropriate sanctions (see the [enforcement manual](#4-enforcement-manual) for details).
+
+### 2.4 Feedback
+
+This Code of Conduct is not intended as a static set of rules by which everyone must abide.
+Rather, you are invited to make suggestions for updates or clarifications by contacting Dr  at [@turing.ac.uk](mailto:@turing.ac.uk) or by making a pull request to this document on GitHub.
