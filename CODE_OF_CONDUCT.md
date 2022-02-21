@@ -121,6 +121,6 @@ A detailed enforcement policy is available in the Enforcement Manual below.
 
 ## 4 Enforcement Manual
 
-This is the enforcement manual followed by the Turing Way project research team.
+This is the enforcement manual followed by the scivision project research team.
 It's used when we respond to an issue to make sure we're consistent and fair.
 Enforcement of the Code of Conduct should be respectful and not include any harassing behaviours.
