@@ -15,6 +15,11 @@ To make clear what is expected, we ask all members of the community to conform t
   * [2.2 Unacceptable Behaviour](#22-unacceptable-behaviour)
   * [2.3 Consequences of Unacceptable Behaviour](#23-consequences-of-unacceptable-behaviour)
   * [2.4 Feedback](#24-feedback)
+* [3 Incident Reporting Guidelines](#3-incident-reporting-guidelines)
+  * [3.1 Contact points](#31-contact-points)
+  * [3.2 Alternate contact points](#32-alternate-contact-points)
+  * [3.3 What to do if someone is in physical danger](#33-what-to-do-if-someone-is-in-physical-danger)
+  * [3.4 Code of Conduct Enforcement](#34-code-of-conduct-enforcement)
 
 ## 1 Introduction
 
@@ -86,3 +91,23 @@ If a participant engages in behaviour that violates this Code of Conduct, any me
 
 This Code of Conduct is not intended as a static set of rules by which everyone must abide.
 Rather, you are invited to make suggestions for updates or clarifications by contacting Dr  at [@turing.ac.uk](mailto:@turing.ac.uk) or by making a pull request to this document on GitHub.
+
+## 3 Incident Reporting Guidelines
+
+### 3.1 Contact points
+
+If you feel able to, please contact Dr by email at [@turing.ac.uk](mailto:@turing.ac.uk).
+
+### 3.2 Alternate contact points
+
+If you do not feel comfortable contacting , please report an incident to by email at [](mailto:).
+
+Alternatively, if you would like to contact someone outside of the core development team, please contact  by email at [](mailto:).
+
+### 3.3 What to do if someone is in physical danger
+
+If you believe someone is in physical danger, please contact the appropriate emergency responders.
+
+### 3.4 Code of Conduct Enforcement
+
+A detailed enforcement policy is available in the Enforcement Manual below.
