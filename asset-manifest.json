@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.5affd73b.css",
-    "main.js": "/static/js/main.a17ba0e1.js",
+    "main.css": "/static/css/main.364f6c60.css",
+    "main.js": "/static/js/main.e7337e8e.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
     "static/media/huggingface-object-detection.jpg": "/static/media/huggingface-object-detection.5838a309aa147aba1cb0.jpg",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
     "static/media/sentinel2_stac.jpg": "/static/media/sentinel2_stac.51737c69269f76ea86ed.jpg",
     "static/media/flower-classification-model.jpg": "/static/media/flower-classification-model.e7631bb6950118a863cb.jpg",
     "static/media/vedge-detector.jpg": "/static/media/vedge-detector.f7bf015174128e766a6b.jpg",
@@ -16,8 +16,8 @@
     "static/media/PlantCV.jpg": "/static/media/PlantCV.0e679f4f5f730f23a411.jpg",
     "static/media/cefas-plankton-dsg.jpg": "/static/media/cefas-plankton-dsg.c7cb5b94576d98471bd8.jpg",
     "static/media/sept22-connections-workshop.jpg": "/static/media/sept22-connections-workshop.fd5fb75b156e6bfe3560.jpg",
-    "static/media/huggingface-classifiers.jpg": "/static/media/huggingface-classifiers.d43490443ea20251ed01.jpg",
-    "static/media/huggingface-segmentation.jpg": "/static/media/huggingface-segmentation.d43490443ea20251ed01.jpg",
+    "static/media/btrack.jpg": "/static/media/btrack.86cefef802d3797309c3.jpg",
+    "static/media/Affinity-VAE.jpg": "/static/media/Affinity-VAE.b088434eaae29c7025da.jpg",
     "static/media/oppd-seedlings.jpg": "/static/media/oppd-seedlings.6777dab0849f2cee5f66.jpg",
     "static/media/detectreeRGB-forest.jpg": "/static/media/detectreeRGB-forest.6320de8dea937a52ce79.jpg",
     "static/media/image-classifiers.jpg": "/static/media/image-classifiers.e447edb1b6a36c9f6cac.jpg",
@@ -34,13 +34,15 @@
     "static/media/cefas-plankton.jpg": "/static/media/cefas-plankton.923b1bec2fb5969e03c2.jpg",
     "static/media/stardist-cell-nuclei-2D.jpg": "/static/media/stardist-cell-nuclei-2D.2da18c7334c96e33cfde.jpg",
     "static/media/resnet50-plankton.jpg": "/static/media/resnet50-plankton.9ee110bf65ea28557c77.jpg",
+    "static/media/fathomnet23.jpg": "/static/media/fathomnet23.687914ce0e9e50e41627.jpg",
+    "static/media/huggingface-classifiers.jpg": "/static/media/huggingface-classifiers.52a0e5378dc6224dd7d9.jpg",
     "index.html": "/index.html",
-    "main.5affd73b.css.map": "/static/css/main.5affd73b.css.map",
-    "main.a17ba0e1.js.map": "/static/js/main.a17ba0e1.js.map",
+    "main.364f6c60.css.map": "/static/css/main.364f6c60.css.map",
+    "main.e7337e8e.js.map": "/static/js/main.e7337e8e.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5affd73b.css",
-    "static/js/main.a17ba0e1.js"
+    "static/css/main.364f6c60.css",
+    "static/js/main.e7337e8e.js"
   ]
 }
